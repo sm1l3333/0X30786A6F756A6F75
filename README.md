@@ -1,4 +1,1 @@
-### :fire: My Stats :
----
-### :hammer_and_wrench: Languages and Tools :
-
+[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=0X30786A6F756A6F75&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
